@@ -1,4 +1,4 @@
-baseURL = 'https://bagofwords.ai/'
+baseURL = 'https://bagofwordsai.github.io/'
 title = 'Bag of Words'
 theme = "paper"
 
