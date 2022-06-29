@@ -1,4 +1,4 @@
-baseURL = 'http://bagofwords.ai/'
+baseURL = 'https://bagofwords.ai/'
 title = 'Bag of Words'
 theme = "paper"
 
@@ -8,8 +8,6 @@ paginate = 3
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
-# prevent build failures when using Hugo's Instagram shortcode due to deprecated Instagram API.
-# See https://github.com/gohugoio/hugo/issues/7228#issuecomment-714490456
 ignoreErrors = ["error-remote-getjson"]
 
 
