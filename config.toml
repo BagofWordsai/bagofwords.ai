@@ -5,17 +5,22 @@ theme = "paper"
 author = "bagofwordsai"
 copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved."
 pagination = 3
-languageCode = "en"
-DefaultContentLanguage = "en"
+languageCode = "tr"
+DefaultContentLanguage = "tr"
 enableInlineShortcodes = true
 ignoreErrors = ["error-remote-getjson"]
 
 
 [params]
-  twitter = 'nanxiaobei'
-  github = 'nanxiaobei'
-  instagram = 'nan.xiaobei'
-# ------------------------------
+# Socials
+  twitter = 'bagofwordsai'
+  github = 'BagofWordsai'
+  # instagram = 'nan.xiaobei'
+# Home Page Profile
+  avatar = 'https://bagofwordsai.github.io/bow_logo.png'       # Gravatar email or image url(e.g. "https://deno.land/logo.svg")
+  name = 'Bag of Words'
+  bio = 'Türkçe NLP Topluluğu'
+
 
 # needed to  render raw HTML (e.g. <sub>, <sup>, <kbd>, <mark>)
 [markup]
@@ -27,7 +32,7 @@ ignoreErrors = ["error-remote-getjson"]
 
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "Hakkımızda"
     url = "/about/"
     weight = 10
 
