@@ -10,6 +10,15 @@ DefaultContentLanguage = "tr"
 enableInlineShortcodes = true
 ignoreErrors = ["error-remote-getjson"]
 
+languages:
+  tr:
+    contentDir: content/turkish
+    languageName: Türkçe
+    weight: 10
+  en:
+    contentDir: content/english
+    languageName: English
+    weight: 20
 
 [params]
 # Socials

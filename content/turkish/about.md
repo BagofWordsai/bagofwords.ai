@@ -8,7 +8,7 @@ author = "bagofwords.ai"
 
 {{< figure src="../bow_logo.png" title="Bag of Words AI" >}}
 
-Bagofwords.ai, Türkiye'de kurulmuş bir Türkçe NLP topluluğudur. Amacı, NLP çalışmaları konusunda Türkçe kaynak sağlamaktır. Amacını gerçekleştirmek için de teorik blog yazıları, kod uygulamaları, eğitimler ve seminerler gibi farklı şekillerde insanlara ulaşmayı hedeflemektedir.
+Bagofwords.ai, İstanbul, Türkiye'de kurulmuş bir NLP topluluğudur. Amacı NLP meraklılarını bir araya getirmek ve açık kaynak araştırmaları yapmaktır. Bu amaca ulaşmak için teorik dersler, kodlama atölyeleri, eğitim kampları ve seminerler gibi farklı yollarla insanlara ulaşmayı hedefliyoruz.
 
 Eğer topluluğun bir parçası olmak isterseniz,
 
