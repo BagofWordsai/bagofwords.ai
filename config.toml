@@ -42,7 +42,7 @@ ignoreErrors = ["error-remote-getjson"]
   [[menu.main]]
     identifier = "about"
     name = "Hakkımızda"
-    url = "/about/"
+    url = "/turkish/about/"
     weight = 10
 
 [taxonomies]

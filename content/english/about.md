@@ -1,5 +1,5 @@
 +++
-title = "Hakkımızda"
+title = "About Us"
 description = "Bagofwords, Türkçe NLP Topluluğu"
 date = "2022-11-01"
 aliases = ["hakkımızda", "about-bagofwords", "iletişim"]
