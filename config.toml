@@ -7,6 +7,7 @@ copyright = "Copyright © 2008–2019, Steve Francia and the lee.so; all rights 
 pagination = 3
 languageCode = "tr"
 DefaultContentLanguage = "tr"
+defaultContentLang = 'tr'
 enableInlineShortcodes = true
 ignoreErrors = ["error-remote-getjson"]
 
