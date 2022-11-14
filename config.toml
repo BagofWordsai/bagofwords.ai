@@ -12,13 +12,13 @@ ignoreErrors = ["error-remote-getjson"]
 
 [languages]
   [tr]
-    contentDir: content/turkish
-    languageName: Türkçe
-    weight: 10
+    contentDir = "content/turkish"
+    languageName = "Türkçe"
+    weight = 10
   [en]
-    contentDir: content/english
-    languageName: English
-    weight: 20
+    contentDir = "content/english"
+    languageName = "English"
+    weight = 20
 
 [params]
 # Socials
